@@ -1,3 +1,13 @@
-# taxis
+# Trajectory of Taxis
 
-There are two iPython/Jupyter notebooks: taxis.ipynb, taxi-trajectory.ipynb. These may not render directly, in which case you can view the html versions.
+We explore Beijing taxi trip data collected in 2008. This dataset and related publications are at:
+https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/
+
+There are two iPython notebooks:
+
++ taxis.ipynb (explore the whole dataset)
++ taxi-trajectory.ipynb. (see an individual trajectory)
+
+![Beijing](img-beijing.png)
+
+
