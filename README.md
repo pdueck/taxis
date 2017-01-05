@@ -5,9 +5,9 @@ https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sam
 
 There are two iPython notebooks:
 
-+ taxis.ipynb (explore the whole dataset)
-+ taxi-trajectory.ipynb. (see an individual trajectory)
++ taxis.ipynb - explore the whole dataset
++ taxi-trajectory.ipynb - analyze an individual trajectory
 
-![Beijing](img-beijing.png)
+![Beijing](data/img-beijing.png)
 
 
